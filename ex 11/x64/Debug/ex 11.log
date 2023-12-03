@@ -1,2 +1,7 @@
 ﻿  ConsoleApplication1.cpp
-F:\dinaxy\ex 11\ex 11\ConsoleApplication1.cpp(9,12): error C1075: "{": не найдена несоответствующая лексема
+F:\dinaxy\ex 11\ex 11\ConsoleApplication1.cpp(38,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "-"
+F:\dinaxy\ex 11\ex 11\ConsoleApplication1.cpp(38,26): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ряд"
+F:\dinaxy\ex 11\ex 11\ConsoleApplication1.cpp(38,32): warning C4552: "-": результат выражения не используется
+F:\dinaxy\ex 11\ex 11\ConsoleApplication1.cpp(38,39): error C2059: синтаксическая ошибка: )
+F:\dinaxy\ex 11\ex 11\ConsoleApplication1.cpp(39,5): error C2059: синтаксическая ошибка: return
+F:\dinaxy\ex 11\ex 11\ConsoleApplication1.cpp(30,40): error C1075: "{": не найдена несоответствующая лексема
